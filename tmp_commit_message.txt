@@ -1,0 +1,1 @@
+scaffold: add architecture doc
