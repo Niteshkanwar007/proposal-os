@@ -1,0 +1,39 @@
+# .gitignore
+
+# Node
+node_modules/
+npm-debug.log*
+.yarn-integrity
+.yarn-cache
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Build outputs
+dist/
+build/
+.next/
+out/
+
+# OS & editors
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+# Env files
+.env
+.env.local
+
+# Logs
+logs/
+*.log
+
+# Misc
+coverage/
+coverage-final.json
+
